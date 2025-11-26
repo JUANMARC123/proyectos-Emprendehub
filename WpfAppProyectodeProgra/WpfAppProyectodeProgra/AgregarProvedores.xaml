@@ -1,0 +1,58 @@
+﻿<Window x:Class="WpfAppProyectodeProgra.AgregarProvedores"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppProyectodeProgra"
+        mc:Ignorable="d"
+        Title="AgregarProvedores" Height="600" Width="450">
+    <ScrollViewer>
+        <StackPanel Margin="20">
+
+            <TextBlock Text="Agregar Distribuidora"
+                       FontSize="22" FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                        Foreground="Black"
+                       Margin="0 0 0 20"/>
+
+            <TextBlock Text="Nombre"  Foreground="Black" />
+            <TextBox x:Name="TxtNombre"/>
+
+            <TextBlock Text="Ciudad"  Foreground="Black"/>
+            <TextBox x:Name="TxtCiudad"/>
+
+            <TextBlock Text="Teléfono"  Foreground="Black"/>
+            <TextBox x:Name="TxtTelefono"/>
+
+            <TextBlock Text="Años de Experiencia"  Foreground="Black"/>
+            <TextBox x:Name="TxtAnios"/>
+
+            <TextBlock Text="Productos que Distribuye" Foreground="Black"/>
+            <TextBox x:Name="TxtProductos" AcceptsReturn="True" Height="17" />
+
+            <TextBlock Text="Categoría" Foreground="Black" Margin="0 10 0 0"/>
+            <ComboBox x:Name="CbCategoria" Height="25">
+                <ComboBoxItem Content="Electrónica"/>
+                <ComboBoxItem Content="Alimentos"/>
+                <ComboBoxItem Content="Ropa"/>
+                <ComboBoxItem Content="Hogar"/>
+                <ComboBoxItem Content="Otros"/>
+            </ComboBox>
+
+            <TextBlock Text="Página Web"  Foreground="Black"/>
+            <TextBox x:Name="TxtEnlace"/>
+
+            <TextBlock Text="URL del Logo" Foreground="Black"/>
+            <TextBox x:Name="TxtLogo"/>
+
+            <TextBlock Text="Imágenes de Productos (una URL por línea)" Foreground="Black"/>
+            <TextBox x:Name="TxtImagenes" AcceptsReturn="True" Height="47"/>
+
+
+            <Button Content="Guardar" Height="40" Margin="0 20 0 0"
+                    Background="#4CAF50" Foreground="White"
+                    Click="Guardar_Click"/>
+
+        </StackPanel>
+    </ScrollViewer>
+</Window>
