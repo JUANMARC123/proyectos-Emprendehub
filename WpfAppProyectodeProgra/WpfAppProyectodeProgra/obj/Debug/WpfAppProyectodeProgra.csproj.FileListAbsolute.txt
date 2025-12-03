@@ -1,0 +1,69 @@
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.AssemblyReference.cache
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\MainWindow.g.cs
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\sing up .g.cs
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\App.g.cs
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra_MarkupCompile.cache
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra_MarkupCompile.lref
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\inicio del programa .g.cs
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.exe.config
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.exe
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.pdb
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\MainWindow.baml
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\sing up .baml
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\inicio del programa .baml
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.g.resources
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.Properties.Resources.resources
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.GenerateResource.cache
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.CoreCompileInputs.cache
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.exe
+C:\Users\30jua\source\repos\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.pdb
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.exe.config
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.exe
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.pdb
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.AssemblyReference.cache
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\inicio del programa .baml
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\inicio del programa .g.cs
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\MainWindow.g.cs
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\sing up .g.cs
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\App.g.cs
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra_MarkupCompile.cache
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra_MarkupCompile.lref
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\App.baml
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\MainWindow.baml
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\sing up .baml
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.g.resources
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.Properties.Resources.resources
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.GenerateResource.cache
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.exe
+C:\Users\Alumno\Descargas\WpfAppProyectodeProgra 1\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.pdb
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.AssemblyReference.cache
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\inicio del programa .baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\AgregarProvedores.g.cs
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\inicio del programa .g.cs
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\MainWindow.g.cs
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\Pagina Principal.g.cs
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\sing up .g.cs
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\App.g.cs
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra_MarkupCompile.cache
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra_MarkupCompile.lref
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.exe
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.pdb
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.exe.config
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.exe
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\bin\Debug\WpfAppProyectodeProgra.pdb
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\App.baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\AgregarProvedores.baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\MainWindow.baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\Pagina Principal.baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\sing up .baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.g.resources
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.Properties.Resources.resources
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.GenerateResource.cache
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\WpfAppProyectodeProgra.csproj.CoreCompileInputs.cache
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\VentanaDetalles.g.cs
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\VentanaDetalles.baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\PedidosRealizados.g.cs
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\PedidosRealizados.baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\GestionDistribuidoras.baml
+C:\Users\30jua\Downloads\WpfAppProyectodeProgra 2\WpfAppProyectodeProgra\WpfAppProyectodeProgra\obj\Debug\GestionDistribuidoras.g.cs
